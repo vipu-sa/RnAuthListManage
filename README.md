@@ -1,3 +1,5 @@
+[![Build Status](https://app.bitrise.io/app/a515f173edb15615/status.svg?token=SZ6afGZgDfSUX0RwSINcyA&branch=master)](https://app.bitrise.io/app/a515f173edb15615)
+
 # React Native Project RnAuthListManage
 
 
